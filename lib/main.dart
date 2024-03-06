@@ -19,7 +19,7 @@ await Hive.initFlutter();
   Hive.openBox<Relive>('relive');
   Hive.openBox<Slot>('slot');
   Hive.openBox<User>('login');
-  // Hive.openBox<Slot>('vehicle_box');
+ 
   Hive.openBox<Booked>('booked');
   Hive.openBox<Cancellation>('cancel');
   Hive.registerAdapter(UserAdapter());
