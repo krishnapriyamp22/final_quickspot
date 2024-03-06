@@ -10,7 +10,7 @@ import 'package:spotquick/models/relive.dart';
 import 'package:spotquick/models/slot.dart';
 import 'package:spotquick/models/vehicledetail.dart';
 import 'package:spotquick/userscreen/splashscrn.dart';
-//hai
+
 const save_key = 'userlogin';
 void main() async {
 
